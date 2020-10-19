@@ -5,20 +5,20 @@ li>button{
     margin: 5px;
     height: 40px;
 }
-.registerr{
+.registerR{
     background-color: rgb(145, 145, 229);
     border-radius: 20PX;
     
 }
-.registerr h6{
+.registerR h6{
     color: white;
 }
-.adminn{
+.adminN{
         background-color: black;
         color: white;
         border-radius: 20PX;
     }
-.adminn h6{
+.adminN h6{
     color: white;
 }
 li>button:focus{

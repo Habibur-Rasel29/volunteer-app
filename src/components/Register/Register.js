@@ -4,7 +4,7 @@ import Logo from '../../images/logos/Group 1329.png';
 import { useForm } from 'react-hook-form';
 
 const Register = () => {
-    const { register, handleSubmit } = useForm();
+    const { handleSubmit } = useForm();
     const onSubmit = data => console.log(data);
     return (
 

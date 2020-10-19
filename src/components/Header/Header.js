@@ -21,19 +21,19 @@ const Header = () => {
         <a className="nav-link" href="/#">Home</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Donation</a>
+        <a className="nav-link" href="/#">Donation</a>
       </li>
       <li className="nav-item active">
-        <a className="nav-link" href="#">Events</a>
+        <a className="nav-link" href="/#">Events</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Blog</a>
+        <a className="nav-link" href="/#">Blog</a>
       </li>
        <li className="nav-item active">
-        <button className="nav-link registerr" href="#"> <Link to ="/register"><h6>Register</h6> </Link> </button>
+        <button className="nav-link registerR"> <Link to ="/register"><h6>Register</h6> </Link> </button>
       </li>
       <li className="nav-item">
-        <button className="nav-link adminn" href="#"><h6>Admin</h6></button>
+        <button className="nav-link adminN"><h6>Admin</h6></button>
       </li> 
     </ul>
 
