@@ -1,0 +1,30 @@
+.login-backGround{
+    text-align: center;
+    height: 660px;
+
+}
+.login{
+   width: 500px;
+   height: 350px;
+   border: 1px solid lightgray;
+   margin:  100px auto;
+   background-color:white;
+   
+}
+
+.login-sec{
+  
+   justify-content: center;
+margin-top: 100px;
+}
+.google{
+   display: flex;
+   border: 1px solid lightgray;
+   margin: 10px;
+   padding: 10px;
+   margin-left: 80px;
+   margin-right: 80px;
+   border-radius: 20px;
+   justify-content: space-around;
+   box-shadow: 5px 5px lightgray;
+}
